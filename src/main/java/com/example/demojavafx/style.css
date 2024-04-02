@@ -1,0 +1,22 @@
+.side_ankerPane{
+    -fx-background-color: #a1b4d5;
+    /* -fx-border-color: #2207bb; */
+    -fx-border-width: 2px 2px 2px 2px;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-border-style: solid;
+}
+.inner_pane{
+    -fx-background-color: #4381e5;
+    -fx-border-width: 2px 2px 2px 2px;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-border-style: solid;
+}
+.bottom_container{
+    -fx-background-color: rgb(78, 78, 82);
+}
+.days_background{
+    -fx-background-color: #042b7c;
+    -fx-background-radius: 50;
+}
